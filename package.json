@@ -1,0 +1,12 @@
+{
+  "name": "backup",
+  "version": "1.0.0",
+  "description": "CRYSNOVA Backup & Restore API",
+  "main": "worker.js",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.81.1"
+  }
+}
