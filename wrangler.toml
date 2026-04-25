@@ -1,0 +1,7 @@
+name = "backup"
+main = "worker.js"
+compatibility_date = "2026-04-13"
+
+[[kv_namespaces]]
+binding = "BACKUP_KV"
+id = "b7e685589b5c406891bb79ed744d137f"
